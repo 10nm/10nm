@@ -1,16 +1,20 @@
-## Hi there 👋
+# 10nm
 
-<!--
-**10nm/10nm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GitHub**: https://github.com/10nm  
+**Note**:   https://note.saba.run 
+## I can't (yet)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,js,html,css,nodejs,linux,docker&theme=light" />
+  </a>
+</p>
+最近は専ら自然言語処理(NLP) / 大規模言語モデル(LLM) / 機械学習(ML)分野の学習、開発・実行環境のセルフホスティングを行っています。
 
-Here are some ideas to get you started:
+プログラミングはできません。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Activities
+
+<div align="left">
+ <img height="170px" src="https://github-readme-stats.vercel.app/api/wakatime?username=10nm&range&theme=light" />
+ <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10nm&layout=compact&theme=light" />
+</div>
