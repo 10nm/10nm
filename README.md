@@ -1,7 +1,5 @@
 # 10nm
 
-**GitHub**: https://github.com/10nm  
-**Note**:   https://note.saba.run 
 ## I can't (yet)
 <p align="center">
   <a href="https://skillicons.dev">
